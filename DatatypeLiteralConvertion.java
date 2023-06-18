@@ -16,6 +16,7 @@ public class DatatypeLiteralConvertion {
         byte y = (byte) z;//explicit conversion 257%256
         char l='c';
         c++;
+        boolean u=true;
         System.out.println(l);
         System.out.println(b);
         System.out.println(h);
