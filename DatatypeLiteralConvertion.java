@@ -1,3 +1,4 @@
+
 public class DatatypeLiteralConvertion {
     public static void main(String[] args) {
 
@@ -37,3 +38,15 @@ public class DatatypeLiteralConvertion {
 
 
 }
+
+
+/*Literal:
+A literal is a value that is directly written in the source code of a program. 
+    Data Type:
+A data type in Java specifies the type of data that a variable can hold. 
+    It defines the characteristics and operations that can be performed on the variable. 
+    Examples of data types in Java include int, double, boolean, char, etc.
+    Each data type has a specific range of values and occupies a specific amount of memory.
+Variable:
+A variable is a named storage location in a program that holds a value of a specific data type. It is used to store and manipulate data during program execution.
+    Variables must be declared with a specific data type before they can be used.*/
